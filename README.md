@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-I'm Zaynab,
-a Computer Science student, Data Analyst and Programmer.
-
 ## 🌐 How To Reach ME
 
 Please feel free reach out with me either here on [![GitHub Logo](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/ZaynabElyan/ZaynabElyan/issues) or on [![Linkedin Badge](https://img.shields.io/badge/-Zaynab%20Elyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaynabelyan)
