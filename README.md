@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## 🌐 How To Reach Me
+### 🌐 How To Reach Me
 
 Here on [![GitHub Logo](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/ZaynabElyan/ZaynabElyan/issues) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaynabelyan)
 
