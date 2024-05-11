@@ -4,5 +4,5 @@
   </a>
 </h1>
 
-### 🌐 Feel free to reach out with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaynabelyan)
+<!--- ### 🌐 Feel free to reach out with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaynabelyan) --->
 
